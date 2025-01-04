@@ -12,8 +12,26 @@ h2 {
     margin: 2px 600px 2px;
 
 }
-p {
+#me {
     font-size: medium;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin: 2px 580px 2px;
+}
+#doa {
+    font-weight: bolder;
+    font-size: 70px;
+    color: rgb(202, 199, 223);
+    width: 1300px;
+    height: 600px;
+    border: 3px;
+    margin: 0px 100px 0px;
+    background-image: url(back.jpg);
+    background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat
+            text-align: center;
+            padding-top: 300px;
+            padding-left: 50px
+            
+
 }
